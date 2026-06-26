@@ -69,10 +69,12 @@ Model Parameters:
 ```
 Titanic-Survival_Prediction/
 |
-|--titanic-survival_prediction.ipynb
-|--submission.csv
-|--requirement.txt
+|--images
+      |--kaggle_competition_score.PNG
 |--README.md
+|--requirement.txt
+|--submission.csv
+|--titanic-survival_prediction.ipynb
 ```
 
 ## 🚀How to Run
