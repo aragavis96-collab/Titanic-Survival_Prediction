@@ -72,10 +72,18 @@ Titanic-Survival_Prediction/
 |--images
       |--kaggle_competition_score.PNG
 |--README.md
+|--Titanic Survival Prediction.twbx
 |--requirement.txt
 |--submission.csv
 |--titanic-survival_prediction.ipynb
 ```
+## 📊 Tableau Dashboard
+
+This project includes an interactive Tableau dashboard to explore passenger survival pattern.
+
+### Dashboard Preview
+
+<img width="1296" height="821" alt="image" src="https://github.com/user-attachments/assets/82e9cd2f-32de-40d9-a2d2-40b98ad16cd1" />
 
 ## 🚀How to Run
 
