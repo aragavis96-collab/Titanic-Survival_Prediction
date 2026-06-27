@@ -84,6 +84,24 @@ Titanic-Survival_Prediction/
 
 This project includes an interactive Tableau dashboard to explore passenger survival pattern.
 
+### Dashboard Features
+
+-Survival Count
+
+-Survival by Gender
+
+-Survival by Passenger Class
+
+-Age Distribution
+
+-Fare Distribution
+
+-Embarked Port Analysis
+
+-Family Size vs Survival
+
+-Age Group vs Survival
+
 ### Dashboard Preview
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/82e9cd2f-32de-40d9-a2d2-40b98ad16cd1" />
